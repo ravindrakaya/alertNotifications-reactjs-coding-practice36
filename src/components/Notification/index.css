@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.notification-list-container {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #e5e5e5;
+  margin: 5px;
+  width: 50%;
+  height: 50%;
+}
